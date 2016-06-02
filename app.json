@@ -2,7 +2,7 @@
   "name": "test",
   "description": "test",
   "repository": "https://mithat.xyz/",
-  "logo": "ftp://104.131.165.107:987",
+  "logo": "http://104.131.165.107:987",
   "keywords": [""],
   "env": {
     "SOMETHING": {
