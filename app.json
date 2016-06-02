@@ -2,7 +2,7 @@
   "name": "",
   "description": "",
   "repository": "https://mithat.xyz/",
-  "logo": "ftp://mithat.xyz:987",
+  "logo": "ftp://104.131.165.107:987",
   "keywords": [""],
   "env": {
     "SOMETHING": {
