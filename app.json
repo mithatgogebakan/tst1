@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "description": "",
+  "repository": "https://mithat.xyz/",
+  "logo": "ftp://mithat.xyz",
+  "keywords": [""],
+  "env": {
+    "SOMETHING": {
+      "description": "",
+      "value": "",
+      "required": false
+    }
+  },
+  "engines": {
+    "node": "5.10.1"
+  }
+}
